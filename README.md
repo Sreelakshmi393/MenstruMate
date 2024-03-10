@@ -39,12 +39,21 @@ There are two objectives for the project
 
 ![](https://github.com/Sreelakshmi393/MenstruMate/assets/81372148/8e187396-14e3-4d8c-8cdc-ab2534fb4bf4)
 
-#Target Output
+# Target Output
 
 ![WhatsApp Image 2024-03-10 at 10 57 01 AM](https://github.com/Sreelakshmi393/MenstruMate/assets/81372148/9e42f605-e9bd-4050-8968-e9dd7bdb6ade)
 
 ![WhatsApp Image 2024-03-10 at 10 57 01 AM (1)](https://github.com/Sreelakshmi393/MenstruMate/assets/81372148/50715b39-b9da-47fa-89b2-65254223b77f)
 
+
+# Prepared by
+## Team HackHers
+
+Members :
+Sreelakshmi Anilkumar
+Christeena Zacharia
+Akshaya S
+S Arsha Ajikumar
 
 
 
