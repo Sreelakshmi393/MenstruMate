@@ -1,5 +1,5 @@
 # MenstruMate
-The MenstruMate project aims to address a fundamental aspect of reproductive health by providing a reliable and user-friendly tool for tracking menstrual cycles. With the prevalence of smartphones and the increasing awareness of menstrual health, a digital solution offers convenience and empowerment to individuals managing their menstrual cycles.
+The MenstruMate project aims to address a fundamental aspect of reproductive health by providing a reliable and user-friendly tool for tracking menstrual cycles.This project utilizes the Random Forest algorithm within the domain of Machine Learning. With the prevalence of smartphones and the increasing awareness of menstrual health, a digital solution offers convenience and empowerment to individuals managing their menstrual cycles.
 ## Features
 A  MenstruMate typically includes a range of features designed to help individuals monitor and manage their menstrual cycles effectively. Here are some common features 
 ### Cycle Tracking:
@@ -24,8 +24,11 @@ Menstrumate app helps in tracking the next peroid cycles based on some inputs re
 * length of menses
 * experience of unusal bleeding
 ## Technologies Uesed in project
+
 Frontend:html,css,javaScript,django
+
 languages used :python
+
 Machine learning(random forest algorithm)
 ## Objectives
 There are two objectives for the project 
@@ -54,10 +57,10 @@ There are two objectives for the project
 ## Team HackHers
 
 Members :
-Sreelakshmi Anilkumar(College of Engineering Trivandrum),
-Christeena Zacharia(Kristu Jyoti College Of Management And Technology),
-Akshaya S (Kristu Jyoti College Of Management And Technology),
-S Arsha Ajikumar(Kristu Jyoti College Of Management And Technology)
+* Sreelakshmi Anilkumar(College of Engineering Trivandrum),
+* Christeena Zacharia(Kristu Jyoti College Of Management And Technology),
+* Akshaya S (Kristu Jyoti College Of Management And Technology),
+* S Arsha Ajikumar(Kristu Jyoti College Of Management And Technology)
 
 
 
