@@ -29,7 +29,17 @@ There are two objectives for the project
 * Prediciting possibility of PCOS
 ## Repository link:https://github.com/Sreelakshmi393/MenstruMate
 # Obtained Output
-![WhatsApp Image 2024-03-10 at 10 48 34_1df054d4](https://github.com/Sreelakshmi393/MenstruMate/assets/81372148/d4439e06-03c5-4b0f-b084-6df90f364272)
+![](https://github.com/Sreelakshmi393/MenstruMate/assets/81372148/d4439e06-03c5-4b0f-b084-6df90f364272)
+
+![](https://github.com/Sreelakshmi393/MenstruMate/assets/81372148/d7bbbe2b-a731-47a7-a19a-3fd82a1b829d)
+
+![](https://github.com/Sreelakshmi393/MenstruMate/assets/81372148/b290e020-86ee-405b-a1eb-3338f7d2f039)
+
+![](https://github.com/Sreelakshmi393/MenstruMate/assets/81372148/f6221d78-258f-475e-b315-8b9a26ee6c73)
+
+![](https://github.com/Sreelakshmi393/MenstruMate/assets/81372148/8e187396-14e3-4d8c-8cdc-ab2534fb4bf4)
+
+
 
 
 
