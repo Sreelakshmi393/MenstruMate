@@ -23,6 +23,10 @@ Menstrumate app helps in tracking the next peroid cycles based on some inputs re
 * average cycle length
 * length of menses
 * experience of unusal bleeding
+## Technologies Uesed in project
+Frontend:html,css,javaScript,django
+languages used :python
+Machine learning(random forest algorithm)
 ## Objectives
 There are two objectives for the project 
 * Menstrual cycle tracking
@@ -50,10 +54,10 @@ There are two objectives for the project
 ## Team HackHers
 
 Members :
-Sreelakshmi Anilkumar
-Christeena Zacharia
-Akshaya S
-S Arsha Ajikumar
+Sreelakshmi Anilkumar(College of Engineering Trivandrum),
+Christeena Zacharia(Kristu Jyoti College Of Management And Technology),
+Akshaya S (Kristu Jyoti College Of Management And Technology),
+S Arsha Ajikumar(Kristu Jyoti College Of Management And Technology)
 
 
 
